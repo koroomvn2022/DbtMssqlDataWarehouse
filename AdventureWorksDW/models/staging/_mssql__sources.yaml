@@ -1,0 +1,15 @@
+sources:
+  - name: raw_data
+    database: AdventureWorksLT2022
+    schema: SalesLT
+    tables:
+      - name: Address
+      - name: Customer
+      - name: CustomerAddress
+      - name: Product
+      - name: ProductCategory
+      - name: ProductDescription
+      - name: ProductModel
+      - name: ProductModelProductDescription
+      - name: SalesOrderDetail
+      - name: SalesOrderHeader
