@@ -1,12 +1,12 @@
-# Xây Dựng Kho Dữ Liệu Sử Dụng dbt và MSSQL Server
+# Xây Dựng Kho Dữ Liệu Sử Dụng DBT và MSSQL Server
 
 ## Giới Thiệu
 
-Bài này tập trung vào tập trung vào việc xây dựng một kho dữ liệu sử dụng dbt và MSSQL Server. Bài tập này được thực hiện chỉ với mục đích học hỏi và nâng cao kỹ năng.
+Bài này tập trung vào tập trung vào việc xây dựng một kho dữ liệu sử dụng DBT và MSSQL Server. Bài tập này được thực hiện chỉ với mục đích học hỏi và nâng cao kỹ năng.
 
 ## Công Nghệ
 
-- **dbt**: Được sử dụng để xây dựng, kiểm tra và triển khai mô hình dữ liệu.
+- **DBT**: Được sử dụng để xây dựng, kiểm tra và triển khai mô hình dữ liệu.
 - **MSSQL Server**: Hệ thống quản lý cơ sở dữ liệu được sử dụng để lưu trữ và truy vấn dữ liệu.
 
 
